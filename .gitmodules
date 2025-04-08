@@ -1,0 +1,9 @@
+[submodule "libfabric"]
+	path = libfabric
+	url = https://github.com/ofiwg/libfabric
+[submodule "third_party"]
+	path = third_party
+	url = https://github.com/ofiwg/libfabric
+[submodule "third_party/libfabric"]
+	path = third_party/libfabric
+	url = https://github.com/ofiwg/libfabric
